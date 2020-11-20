@@ -244,5 +244,9 @@ files:
     \ meet\"\n        );\n    }\n    \n}\n"
   learner_created: false
 feedback_link: https://hyperskill.org/projects/83/stages/460/implement#comment
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations! Continue on <a href="https://hyperskill.org/projects/83/stages/460/implement">JetBrains
+    Academy</a>
+  time: Fri, 20 Nov 2020 11:13:24 UTC
+record: 4
